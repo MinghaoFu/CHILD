@@ -1,0 +1,7 @@
+README.md
+setup.py
+IDOL.egg-info/PKG-INFO
+IDOL.egg-info/SOURCES.txt
+IDOL.egg-info/dependency_links.txt
+IDOL.egg-info/requires.txt
+IDOL.egg-info/top_level.txt

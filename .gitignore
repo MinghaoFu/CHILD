@@ -1,0 +1,7 @@
+
+scripts/wandb/
+scripts/log/
+scripts/CHILD/
+IDOL/datasets/dataset3/
+*.DS_Store
+

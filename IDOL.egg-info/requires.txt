@@ -1,0 +1,11 @@
+disentanglement-lib==1.4
+h5py
+ipdb
+lightning==2.0.6
+opencv-python
+pymunk
+pytorch-lightning==2.0.0
+torch==2.0.1
+torchaudio
+torchvision
+wandb==0.16.1
